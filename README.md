@@ -1,77 +1,86 @@
-<!-- ==================== 100% CENTERED BOXLESS HERO ==================== -->
+<!-- ==================== HERO BANNER WITH TYPING SVG ==================== -->
 <div align="center">
 
 <p align="center">
-  <sub>🟠 <b>HELLO ALL &bull; WELCOME TO MY PROFILE</b></sub>
-</p>
-
-<!-- Perfectly Styled Textured Name (SVG Graphic) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=48&duration=10000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&lines=MASTAN+VALI" alt="MASTAN VALI" />
-</p>
-
-<!-- 3 Centered Role Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP_BODS_4.3_DEVELOPER-0284c7?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BODS"/>
-  <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-d97706?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems"/>
-  <img src="https://img.shields.io/badge/VIBE_CODER-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coder"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=220&section=header&text=SHAIK%20MASTAN%20VALI&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%E2%9A%A1%20Autonomous%20Agent%20Architect%20%7C%20AI-Native%20Systems%20Builder%20%E2%9A%A1&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IMMEDIATE_JOINER_%E2%80%A2_OPEN_TO_RELOCATION-052e16?style=flat-square&logo=target&logoColor=4ade80" alt="Status"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Architecting+Autonomous+Multi-Agent+Swarms;Building+with+LLMs+%26+Coding+Agents;Engineering+High-Throughput+AI+Pipelines;Specializing+in+CrewAI%2C+LangChain+%26+Vector+DBs" alt="Typing SVG" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Professional Summary &bull; Enterprise &amp; AI Engineering
+### 🌐 Connect with me.
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/VERCEL_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/anas116-ai">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<img align="right" width="240" src="./avatar.png" alt="Mastan Vali Avatar" />
+---
 
-Software Engineer with enterprise production data expertise at **VHS Consulting (Client: TCS / Grainger)**, specializing in **SAP BODS 4.3** ETL architecture, **SAP ECC/BW** high-throughput data extraction, and SQL Server validation with **99.98% SLA** reliability.
+### 👨‍💻 About Me.
 
-- 🧠 Applying enterprise engineering discipline to architect **Autonomous Multi-Agent Swarms (CrewAI, LangChain, AutoGen)**, offline-first desktop systems (**AnPharmacy**), and intelligent AI workflows (**AnsiQ**).
-- ⚡ **Code ➔ Orchestrate ➔ Deploy ➔ Evolve**: Leveraging Coding Agents, LLM tool-use protocols, and dense vector databases (Pinecone, Qdrant).
-- 🎯 **Roles:** `SAP BODS 4.3 Developer` &middot; `AI Systems Builder` &middot; `Vibe Coder`
-- 🟢 **Status:** **IMMEDIATE JOINER &bull; OPEN TO RELOCATION**
-- 📫 **Contact:** [Drop an Email to Mastan Vali](mailto:YOUR_EMAIL@gmail.com) &middot; [LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+<img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Agent Mascot" />
+
+- 🤖 **AI Systems Architect & AI-Native Builder**.
+- ⚡ **Code ➔ Orchestrate ➔ Deploy ➔ Evolve**.
+- 🧠 Specializing in **Autonomous Agent Swarms, CrewAI & LangChain Workflows**.
+- 🛠️ Architecting high-efficiency **Coding Agents & Tool Execution Pipelines**.
+- 🗄️ Deep focus on **Hybrid RAG, Vector Databases (Pinecone, Qdrant) & LLM Context Design**.
+- 🎯 **Mission:** Turning cutting-edge AI research into production-ready autonomous software.
+- 📬 **How to reach me:** [Drop an Email](mailto:YOUR_EMAIL@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME).
 
 <br clear="right"/>
 
 ---
 
-### 🌐 Connect with Mastan Vali 🤠
+### 🛠️ Core AI Ecosystem & Technologies
+
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_3D_PORTFOLIO-0c1017?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/anas116-ai">
-    <img src="https://img.shields.io/badge/GITHUB-131c2d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DBs"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 ---
 
-### 📊 Stats &amp; Production Activity 📈
+### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas116-ai&theme=tokyonight&hide_border=true&stroke=1a2230&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&background=0c1017" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas116-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas116-ai&theme=tokyonight&hide_border=true&stroke=00F2FE&ring=00F2FE&fire=FF4B4B&currStreakLabel=00F2FE" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas116-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas116-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas116-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas116-ai&theme=tokyo-night&hide_border=true&area=true" width="49%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e2230,100:f59e0b&height=55&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=anas116-ai&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,3,2,1&height=90&section=footer" width="100%"/>
 </p>
