@@ -5,8 +5,12 @@
   <sub>🟠 <b>HELLO ALL &bull; WELCOME TO MY PROFILE</b></sub>
 </p>
 
-# MASTAN VALI
+<!-- Perfectly Styled Textured Name (SVG Graphic) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=900&size=48&duration=10000&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&lines=MASTAN+VALI" alt="MASTAN VALI" />
+</p>
 
+<!-- 3 Centered Role Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/SAP_BODS_4.3_DEVELOPER-0284c7?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BODS"/>
   <img src="https://img.shields.io/badge/AI_SYSTEMS_BUILDER-d97706?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems"/>
@@ -23,8 +27,7 @@
 
 ### 👨‍💻 Professional Summary &bull; Enterprise &amp; AI Engineering
 
-<!-- Place avatar.png in the root of your GitHub repository -->
-<img align="right" width="250" src="./avatar.png" alt="Shaik Mastan Vali Avatar" />
+<img align="right" width="240" src="./avatar.png" alt="Mastan Vali Avatar" />
 
 Software Engineer with enterprise production data expertise at **VHS Consulting (Client: TCS / Grainger)**, specializing in **SAP BODS 4.3** ETL architecture, **SAP ECC/BW** high-throughput data extraction, and SQL Server validation with **99.98% SLA** reliability.
 
@@ -46,9 +49,6 @@ Software Engineer with enterprise production data expertise at **VHS Consulting 
   <a href="https://YOUR_PORTFOLIO.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/LIVE_3D_PORTFOLIO-0c1017?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -63,12 +63,11 @@ Software Engineer with enterprise production data expertise at **VHS Consulting 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas116-ai&theme=tokyonight&hide_border=true&stroke=1a2230&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&background=0c1017" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anas116-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anas116-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas116-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas116-ai&theme=tokyo-night&hide_border=true&area=true&bg_color=0c1017&color=38bdf8&line=38bdf8" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anas116-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0c1017" width="49%" />
 </p>
 
 ---
