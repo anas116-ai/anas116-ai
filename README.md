@@ -15,25 +15,26 @@
 
 ---
 
-### 🌐 Connect with me.
+### 🌐 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mastan-vali-shaik-86952725a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/VERCEL_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://mastanvali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sk.mastanvali0116@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/anas116-ai">
+  <a href="https://github.com/anas116-ai" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me.
+### 👨‍💻 About Me
 
 <img align="right" width="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI Agent Mascot" />
 
@@ -43,7 +44,7 @@
 - 🛠️ Architecting high-efficiency **Coding Agents & Tool Execution Pipelines**.
 - 🗄️ Deep focus on **Hybrid RAG, Vector Databases (Pinecone, Qdrant) & LLM Context Design**.
 - 🎯 **Mission:** Turning cutting-edge AI research into production-ready autonomous software.
-- 📬 **How to reach me:** [Drop an Email](mailto:YOUR_EMAIL@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME).
+- 📬 **How to reach me:** [Drop an Email](mailto:sk.mastanvali0116@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mastan-vali-shaik-86952725a/).
 
 <br clear="right"/>
 
@@ -56,9 +57,12 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vector_DBs-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DBs"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <a href="https://mastanvali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
 </p>
 
 ---
