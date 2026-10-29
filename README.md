@@ -96,5 +96,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,9,2,0&height=90&section=footer" width="100%"/>
 </p>
-
-paina vunna dhaniki & ippudu nenu paste chesina dhaniki diffrence enti ?
